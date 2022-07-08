@@ -2,7 +2,7 @@
 
 ## 도형 로딩 애니메이션-1
 
-[예제보기](http://gaeng0.dothome.co.kr/publishing%20portfolio/animation1.html)
+<a href="http://gaeng0.dothome.co.kr/publishing%20portfolio/animation1.html" target="_blank">예제보기</a>
 
 파일명 : animation1.html
 
@@ -13,7 +13,7 @@
 
 ## 도형 로딩 애니메이션-2
 
-[예제보기](http://gaeng0.dothome.co.kr/publishing%20portfolio/animation2.html)
+<a href="http://gaeng0.dothome.co.kr/publishing%20portfolio/animation2.html" target="_blank">예제보기</a>
 
 파일명 : animation2.html
 
@@ -24,7 +24,7 @@
 
 ## 더블보더 레디어스 애니메이션
 
-[예제보기](http://gaeng0.dothome.co.kr/publishing%20portfolio/animation3-2.html)
+<a href="http://gaeng0.dothome.co.kr/publishing%20portfolio/animation3-2.html" target="_blank">예제보기</a>
 
 파일명 : animation3-2.html
 
@@ -35,7 +35,7 @@
 
 ## hover하면 상세설명 나타나는 상품목록
 
-[예제보기](http://gaeng0.dothome.co.kr/publishing%20portfolio/hover1.html)
+<a href="http://gaeng0.dothome.co.kr/publishing%20portfolio/hover1.html" target="_blank">예제보기</a>
 
 파일명 : hover1.html
 
@@ -46,7 +46,7 @@
 
 ## hover되면 나타나는 툴팁
 
-[예제보기](http://gaeng0.dothome.co.kr/publishing%20portfolio/hover2.html)
+<a href="http://gaeng0.dothome.co.kr/publishing%20portfolio/hover2.html" target="_blank">예제보기</a>
 
 파일명 : hover2.html
 
@@ -57,7 +57,7 @@
 
 ## hover한 메뉴 외 나머지 흐려지는 nav
 
-[예제보기](http://gaeng0.dothome.co.kr/publishing%20portfolio/hover3.html)
+<a href="http://gaeng0.dothome.co.kr/publishing%20portfolio/hover3.html" target="_blank">예제보기</a>
 
 파일명 : hover3.html
 
@@ -68,7 +68,7 @@
 
 ## 위아래로 분리되는 hover 네비게이션 이펙트
 
-[예제보기](http://gaeng0.dothome.co.kr/publishing%20portfolio/hover4.html)
+<a href="http://gaeng0.dothome.co.kr/publishing%20portfolio/hover4.html" target="_blank">예제보기</a>
 
 파일명 : hover4.html
 
