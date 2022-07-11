@@ -1,0 +1,71 @@
+/* Google Web Font */
+@import url('https://font.googleapis.com/css?family=Raleway&display=swap');
+
+body {
+  font-family: 'Raleway', 'sans-serif';
+  color: #222;
+  line-height: 1.5em;
+  margin: 0;
+  font-weight: 300;
+  background-color: #f4f4f4;
+  /* 수직 수평 중앙 */
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+a {
+  color: #222;
+  text-decoration: none;
+}
+
+/* 텍스트 가로정렬하고 같은 크기로 나누는 방법-1 */
+/* .gnb {
+  margin: 0;
+  width: 600px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  padding: 40px 30px;
+}
+.gnb li{
+  float: left;
+  width: 20%;
+  text-align: center;
+} */
+
+/* 텍스트 가로정렬하고 같은 크기로 나누는 방법-2 */
+.gnb {
+  margin: 0;
+  width: 600px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  padding: 40px 30px;
+  display: flex;
+}
+.gnb li{
+  flex: 1;
+  text-align: center;
+}
+
+.gnb li a{
+  font-size: 14px;
+  position: relative;
+}
+.gnb li a::before{
+  content: '';
+  position: absolute;
+  background-color: dodgerblue;
+  height: 2px;
+  width: 0;
+  bottom: -10px;
+  transition: 0.5s;
+  left: 50%;
+  transform: translateX(-50%);
+
+}
+.gnb li a:hover::before{
+  width: 100%;
+}
+
