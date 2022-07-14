@@ -73,3 +73,69 @@
 파일명 : hover4.html
 
 <img src="./images/7.gif">
+
+<br>
+<br>
+
+## 앱 UI 레이어 3D hover 에니메이션
+
+<a href="http://gaeng0.dothome.co.kr/publishing%20portfolio/hover5.html" target="_blank">예제보기</a>
+
+파일명 : hover5.html
+
+<img src="./images/8.gif">
+
+<br>
+<br>
+
+## before, after 가상클래스 활용
+
+<a href="http://gaeng0.dothome.co.kr/publishing%20portfolio/before_after1.html" target="_blank">예제보기</a>
+
+파일명 : before_after1.html
+
+<img src="./images/9.jpg">
+
+<br>
+<br>
+
+## before, after 활용한 애니메이션 hover 이펙트
+
+<a href="http://gaeng0.dothome.co.kr/publishing%20portfolio/before_after2.html" target="_blank">예제보기</a>
+
+파일명 : before_after2.html
+
+<img src="./images/10.gif">
+
+<br>
+<br>
+
+## before, after 활용 SNS 아이콘 애니메이션
+
+<a href="http://gaeng0.dothome.co.kr/publishing%20portfolio/before_after3.html" target="_blank">예제보기</a>
+
+파일명 : before_after3.html
+
+<img src="./images/11.gif">
+
+<br>
+<br>
+
+## before, after 활용 텍스트 네비게이션
+
+<a href="http://gaeng0.dothome.co.kr/publishing%20portfolio/before_after4-2.html" target="_blank">예제보기</a>
+
+파일명 : before_after4-1.html, before_after4-2.html
+
+<img src="./images/12.gif">
+
+<br>
+<br>
+
+## 폰트어썸을 사용한 입력필드
+
+<a href="http://gaeng0.dothome.co.kr/publishing%20portfolio/Fontawesome.html" target="_blank">예제보기</a>
+
+파일명 : Fontawesome.html
+
+<img src="./images/13.gif">
