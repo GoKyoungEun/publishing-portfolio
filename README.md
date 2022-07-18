@@ -280,9 +280,9 @@
 
 # publishing-portfolio PART 2
 
-### 풀스크린 탭 콘텐츠 슬라이더 응용
+### 네비게이션 호버이펙트-Border
 
-<a href="http://gaeng0.dothome.co.kr/publishing%20portfolio/pure2.html" target="_blank">예제보기</a>
+<a href="http://gaeng0.dothome.co.kr/publishing%20portfolio2/navigation1.html" target="_blank">예제보기</a>
 
 파일명 : navigation1.html
 
