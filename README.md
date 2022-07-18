@@ -6,7 +6,7 @@
 
 파일명 : animation1.html
 
-<img src="../part1/images/1.gif">
+<img src="./part1/images/1.gif">
 
 <br>
 <br>
@@ -17,7 +17,7 @@
 
 파일명 : animation2.html
 
-<img src="../part1/images/2.gif">
+<img src="./part1/images/2.gif">
 
 <br>
 <br>
@@ -28,7 +28,7 @@
 
 파일명 : animation3-2.html
 
-<img src="../part1/images/3.gif">
+<img src="./part1/images/3.gif">
 
 <br>
 <br>
@@ -39,7 +39,7 @@
 
 파일명 : hover1.html
 
-<img src="../part1/images/4.gif">
+<img src="./part1/images/4.gif">
 
 <br>
 <br>
@@ -50,7 +50,7 @@
 
 파일명 : hover2.html
 
-<img src="../part1/images/5.gif">
+<img src="./part1/images/5.gif">
 
 <br>
 <br>
@@ -61,7 +61,7 @@
 
 파일명 : hover3.html
 
-<img src="../part1/images/6.gif">
+<img src="./part1/images/6.gif">
 
 <br>
 <br>
@@ -72,7 +72,7 @@
 
 파일명 : hover4.html
 
-<img src="../part1/images/7.gif">
+<img src="./part1/images/7.gif">
 
 <br>
 <br>
@@ -83,7 +83,7 @@
 
 파일명 : hover5.html
 
-<img src="../part1/images/8.gif">
+<img src="./part1/images/8.gif">
 
 <br>
 <br>
@@ -94,7 +94,7 @@
 
 파일명 : before_after1.html
 
-<img src="../part1/images/9.jpg">
+<img src="./part1/images/9.jpg">
 
 <br>
 <br>
@@ -105,7 +105,7 @@
 
 파일명 : before_after2.html
 
-<img src="../part1/images/10.gif">
+<img src="./part1/images/10.gif">
 
 <br>
 <br>
@@ -116,7 +116,7 @@
 
 파일명 : before_after3.html
 
-<img src="../part1/images/11.gif">
+<img src="./part1/images/11.gif">
 
 <br>
 <br>
@@ -127,7 +127,7 @@
 
 파일명 : before_after4-1.html, before_after4-2.html
 
-<img src="../part1/images/12.gif">
+<img src="./part1/images/12.gif">
 
 <br>
 <br>
@@ -138,7 +138,7 @@
 
 파일명 : Fontawesome.html
 
-<img src="../part1/images/13.gif">
+<img src="./part1/images/13.gif">
 
 <br>
 <br>
@@ -149,7 +149,7 @@
 
 파일명 : skill_progress1.html
 
-<img src="../part1/images/14.gif">
+<img src="./part1/images/14.gif">
 
 <br>
 <br>
@@ -160,7 +160,7 @@
 
 파일명 : skill_progress2.html
 
-<img src="../part1/images/15.gif">
+<img src="./part1/images/15.gif">
 
 <br>
 <br>
@@ -171,7 +171,7 @@
 
 파일명 : flex-layout.html
 
-<img src="../part1/images/16.gif">
+<img src="./part1/images/16.gif">
 
 <br>
 <br>
@@ -182,7 +182,7 @@
 
 파일명 : checked1.html
 
-<img src="../part1/images/17.gif">
+<img src="./part1/images/17.gif">
 
 <br>
 <br>
@@ -193,7 +193,7 @@
 
 파일명 : checked2.html
 
-<img src="../part1/images/18.gif">
+<img src="./part1/images/18.gif">
 
 <br>
 <br>
@@ -204,7 +204,7 @@
 
 파일명 : checked3.html
 
-<img src="../part1/images/19.gif">
+<img src="./part1/images/19.gif">
 
 <br>
 <br>
@@ -215,7 +215,7 @@
 
 파일명 : checked4.html
 
-<img src="../part1/images/20.gif">
+<img src="./part1/images/20.gif">
 
 <br>
 <br>
@@ -226,7 +226,7 @@
 
 파일명 : checked5.html
 
-<img src="../part1/images/21.gif">
+<img src="./part1/images/21.gif">
 
 <br>
 <br>
@@ -237,7 +237,7 @@
 
 파일명 : checked6.html
 
-<img src="../part1/images/22.gif">
+<img src="./part1/images/22.gif">
 
 <br>
 <br>
@@ -249,8 +249,8 @@
 
 파일명 : checked7-1.html,checked7-2.html
 
-<img src="../part1/images/23.gif">
-<img src="../part1/images/23-1.gif">
+<img src="./part1/images/23.gif">
+<img src="./part1/images/23-1.gif">
 
 <br>
 <br>
