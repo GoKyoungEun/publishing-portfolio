@@ -261,7 +261,7 @@
 
 파일명 : pure1.html
 
-<img src="../part1/images/24.gif">
+<img src="./part1/images/24.gif">
 
 <br>
 <br>
@@ -272,5 +272,5 @@
 
 파일명 : pure2.html
 
-<img src="../part1/images/25.gif">
+<img src="./part1/images/25.gif">
 
