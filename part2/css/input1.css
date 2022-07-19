@@ -1,0 +1,71 @@
+/* Google Web Fonts CDN */
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR:300,400,500,700,900&display=swap');
+
+
+body {
+  font-family: 'Noto Sans KR', sans-serif;
+  line-height: 1.5em;
+  margin: 0;
+  font-weight: 300;
+  color: #222;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+a {
+  text-decoration: none;
+  color: #222;
+}
+.container div label {
+  cursor: pointer;
+}
+.custom1,
+.custom2,
+.custom3{
+  padding-bottom: 30px;
+  border-bottom: 1px solid #999;
+}
+.custom2 input[type=checkbox],
+.custom3 input[type=checkbox],
+.custom4 input[type=radio] {
+  display: none;
+}
+.custom2 label,
+.custom3 label {
+  position: relative;
+  display: block;
+}
+.custom2 label em,
+.custom3 label em,
+.custom4 label em {
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  vertical-align: middle;
+  margin-right: 5px;
+  background-position: left center;
+}
+.custom2 label[for=chk2-1] em {
+  background: url('../images/checkbox-01.png') no-repeat;
+}
+.custom2 label[for=chk2-2] em {
+  background: url('../images/checkbox-02.png') no-repeat;
+}
+.custom3 label[for=chk3-1] em {
+  background: url('../images/checkbox-03.png') no-repeat;
+}
+.custom3 label[for=chk3-2] em {
+  background: url('../images/checkbox-04.png') no-repeat;
+}
+.custom4 label em {
+  background: url('../images/radio-01.png') no-repeat;
+}
+.custom2 input[type=checkbox]:checked + label em,
+.custom3 input[type=checkbox]:checked + label em,
+.custom4 input[type=radio]:checked + label em {
+  background-position: right center;
+}
+.custom4 input[type=radio]:checked + label {
+  color: crimson;
+}
