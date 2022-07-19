@@ -357,7 +357,7 @@
 <br>
 <br>
 
-### 배경이미지 풀스크린 검색창
+### 로그인 화면
 
 <a href="http://gaeng0.dothome.co.kr/publishing%20portfolio2/login.html?" target="_blank">예제보기</a>
 
